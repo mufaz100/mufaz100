@@ -14,7 +14,7 @@ Alternatively, find me on telegram! (Keep all support questions in the support c
 
 <!--
 **mufaz100/mufaz100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+https://heroku.com/deploy?template=https://github.com/mufaz100/mufaz1000
 
 
 
